@@ -22,7 +22,7 @@ require (
 	github.com/fatih/color v1.7.0 // indirect
 	github.com/golang/groupcache v0.0.0-20191227052852-215e87163ea7 // indirect
 	github.com/golang/protobuf v1.3.2 // indirect
-	github.com/google/go-cmp v0.4.0 // indirect
+	github.com/google/go-cmp v0.6.0 // indirect
 	github.com/googleapis/gax-go/v2 v2.0.5 // indirect
 	github.com/hashicorp/go-cleanhttp v0.5.0 // indirect
 	github.com/hashicorp/go-getter v1.3.0 // indirect
@@ -56,14 +56,16 @@ require (
 	github.com/vmihailenco/msgpack v4.0.1+incompatible // indirect
 	github.com/zclconf/go-cty v0.0.0-20190516203816-4fecf87372ec // indirect
 	go.opencensus.io v0.22.2 // indirect
-	golang.org/x/crypto v0.0.0-20200220183623-bac4c82f6975 // indirect
+	golang.org/x/crypto v0.35.0 // indirect
 	golang.org/x/exp v0.0.0-20191227195350-da58074b4299 // indirect
 	golang.org/x/lint v0.0.0-20191125180803-fdd1cda4f05f // indirect
-	golang.org/x/net v0.0.0-20191209160850-c0dbc17a3553 // indirect
+	golang.org/x/mod v0.17.0 // indirect
+	golang.org/x/net v0.25.0 // indirect
 	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d // indirect
-	golang.org/x/sys v0.0.0-20200107162124-548cf772de50 // indirect
-	golang.org/x/text v0.3.2 // indirect
-	golang.org/x/tools v0.0.0-20200113040837-eac381796e91 // indirect
+	golang.org/x/sync v0.11.0 // indirect
+	golang.org/x/sys v0.30.0 // indirect
+	golang.org/x/text v0.22.0 // indirect
+	golang.org/x/tools v0.21.1-0.20240508182429-e35e4ccd0d2d // indirect
 	google.golang.org/api v0.15.0 // indirect
 	google.golang.org/appengine v1.6.5 // indirect
 	google.golang.org/genproto v0.0.0-20200108215221-bd8f9a0ef82f // indirect
