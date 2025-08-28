@@ -52,7 +52,7 @@ require (
 	github.com/posener/complete v1.2.1 // indirect
 	github.com/spf13/afero v1.2.2 // indirect
 	github.com/stretchr/testify v1.6.1 // indirect
-	github.com/ulikunitz/xz v0.5.5 // indirect
+	github.com/ulikunitz/xz v0.5.14 // indirect
 	github.com/vmihailenco/msgpack v4.0.1+incompatible // indirect
 	github.com/zclconf/go-cty v0.0.0-20190516203816-4fecf87372ec // indirect
 	go.opencensus.io v0.22.2 // indirect
